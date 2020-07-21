@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+}
+
+.banner{
+	padding: 130px 150px;
+	background-attachment: fixed;
+	text-align: center;
+}
+.content{
+	background: #00000052;
+	padding: 40px;
+	color: white;
+}
+p{
+	line-height: 1.4;
+	font-size: 24px;
+}
+h1{
+	margin: 0;
+	font-size: 60px;
+}
+.bg01{
+	background-image: url(../images/portfolio-item57.jpg)
+}
+.bg02{
+	background-image: url(../images/portfolio-item58.jpg)
+}
+.bg03{
+	background-image: url(../images/portfolio-item59.jpg)
+}
+.bg04{
+	background-image: url(../images/portfolio-item60.jpg)
+}
+.bg05{
+	background-image: url(../images/portfolio-item61.jpg)
+}
+.bg06{
+	background-image: url(../images/portfolio-item62.jpg)
+}
